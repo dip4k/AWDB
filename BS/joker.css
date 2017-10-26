@@ -1,0 +1,20 @@
+body {
+    background: url(https://images4.alphacoders.com/285/thumb-1920-285966.jpg);
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.quote {
+    border-left: 5px solid #5c2e83;
+    padding-left: 1%;
+}
+
+#txt-center {
+    text-align: center;
+    background: hsla(295, 35%, 43%, 0.205);
+    border: solid 2px rgba(100, 100, 150, 0.5);
+    padding: 25% 0;
+}
